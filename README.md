@@ -7,7 +7,7 @@ South Africa-Switzerland Bilateral Research Chair in Blockchain Technology aims 
 As a research center, our focus is more than just blockchain technology, but we have expertise in web development, data analysis, data science, and machine learning development. In this repository, look at a niche area of data science and machine learning engineering, **time series forecasting**. We use the fundamental gained from our [Python fundamentals series](https://www.youtube.com/watch?v=s_gQrQhKkBE&list=PLYAUzWboAWPh0Tbm1MTYiPtF3QVm1ePlW), and apply it to Demand Forecasting. 
 
 ## Dataset
-The dataset used for this demand forecasting problem is the dataset used in (Global Energy Forecasting Competition 2014 (GEFCom2014))[https://doi.org/10.1016/j.ijforecast.2016.02.001]. 
+The dataset used for this demand forecasting problem is the dataset used in [Global Energy Forecasting Competition 2014 (GEFCom2014)](https://doi.org/10.1016/j.ijforecast.2016.02.001). 
 
 ## Forecast Methods
 For this problem, we forecast on performing time series analysis using Python and we introduce the following benchmark time series forecasts methods:
